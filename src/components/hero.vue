@@ -1,5 +1,5 @@
 <script setup>
-import SearchBar from './SearchBar.vue'
+import searchbar from './searchbar.vue'
 </script>
 
 <template>
@@ -17,7 +17,7 @@ import SearchBar from './SearchBar.vue'
   Dove vuoi <br /> sentirti vivo oggi?
 </h1>
       
-      <SearchBar />
+      <searchbar />
 
     </div>
   </section>
