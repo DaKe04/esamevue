@@ -90,7 +90,7 @@ const ratingMarks = computed(() => {
             v-for="(mark, index) in ratingMarks"
             :key="`${title}-${index}`"
             class="inline-flex h-3.5 w-3.5 rounded-full"
-            :class="mark === 'full' ? 'bg-[#ffa63a]' : mark === 'half' ? 'bg-[linear-gradient(90deg,#ffa63a_50%,#e7e2dc_50%)]' : 'bg-[#e7e2dc]'"
+            :class="mark === 'full' ? 'bg-[#F59D27]' : mark === 'half' ? 'bg-[linear-gradient(90deg,#ffa63a_50%,#e7e2dc_50%)]' : 'bg-[#e7e2dc]'"
           />
         </div>
 
