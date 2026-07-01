@@ -5,7 +5,7 @@ import FooterSection from '../components/FooterSection.vue'
 </script>
 
 <template>
-  <div class="min-h-screen bg-[#ef2b3b] text-white flex flex-col">
+  <div class="min-h-screen bg-[#E52037] text-white flex flex-col">
     <Navbar />
     <main class="flex-1 pt-20 md:pt-24">
       <TravelSection />
