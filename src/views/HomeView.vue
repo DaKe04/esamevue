@@ -8,7 +8,7 @@ import FooterSection from '../components/FooterSection.vue'
 </script>
 
 <template>
-  <div class="w-full min-h-screen bg-slate-900 font-sans antialiased">
+  <div class="w-full min-h-screen font-sans antialiased">
     <Navbar />
     <Hero />
     <About />
